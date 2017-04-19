@@ -1,4 +1,7 @@
-# test coverage for  [each-async (v1.1.1)](https://github.com/sindresorhus/each-async)  [![npm package](https://img.shields.io/npm/v/npmtest-each-async.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-each-async) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-each-async.svg)](https://travis-ci.org/npmtest/node-npmtest-each-async)
+# npmtest-each-async
+
+#### test coverage for  [each-async (v1.1.1)](https://github.com/sindresorhus/each-async)  [![npm package](https://img.shields.io/npm/v/npmtest-each-async.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-each-async) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-each-async.svg)](https://travis-ci.org/npmtest/node-npmtest-each-async)
+
 #### Async concurrent iterator (async forEach)
 
 [![NPM](https://nodei.co/npm/each-async.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/each-async)
